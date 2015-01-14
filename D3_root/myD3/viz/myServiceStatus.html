@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "utf-8">
+	<script src= "d3.js"></script>
+	<script>
+	function draw(data){
+		"use strict";
+		d3.select("body")
+		  .append("ul")
+		  .selectAll("li")
+		  .data(data)
+		  .enter()
+		  .append("li")
+		  	.text(function (d){
+		  		return d.name + " : " + d.status;
+		  	}
+		  	);
+		d3.selectAll("li")
+		  .style("color",function (d){
+		  	if (d.status == "GOOD SERVICE"){
+		  		return "red"
+		  	}
+		  	else{
+		  		return "green"
+		  	}
+		  });  	
+
+
+		  	
+
+	}
+	</script>
+</head>
+<body>
+    <script>
+    	d3.json("data/train_status.json",draw);
+   </script>
+</body>	
+</html>

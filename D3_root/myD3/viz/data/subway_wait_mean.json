@@ -1,0 +1,102 @@
+[
+    {
+        "line_id": "Line_1",
+        "line_name": "1 Line",
+        "mean": 75.60384615384615
+    },
+    {
+        "line_id": "Line_2",
+        "line_name": "2 Line",
+        "mean": 72.97692307692309
+    },
+    {
+        "line_id": "Line_3",
+        "line_name": "3 Line",
+        "mean": 76.70384615384613
+    },
+    {
+        "line_id": "Line_4",
+        "line_name": "4 Line",
+        "mean": 71.39615384615385
+    },
+    {
+        "line_id": "Line_5",
+        "line_name": "5 Line",
+        "mean": 71.26538461538463
+    },
+    {
+        "line_id": "Line_6",
+        "line_name": "6 Line",
+        "mean": 73.4
+    },
+    {
+        "line_id": "Line_7",
+        "line_name": "7 Line",
+        "mean": 75.03846153846155
+    },
+    {
+        "line_id": "Line_A",
+        "line_name": "A Line",
+        "mean": 71.34615384615385
+    },
+    {
+        "line_id": "Line_B",
+        "line_name": "B Line",
+        "mean": 77.62307692307692
+    },
+    {
+        "line_id": "Line_C",
+        "line_name": "C Line",
+        "mean": 79.61153846153846
+    },
+    {
+        "line_id": "Line_D",
+        "line_name": "D Line",
+        "mean": 79.75
+    },
+    {
+        "line_id": "Line_E",
+        "line_name": "E Line",
+        "mean": 73.93076923076923
+    },
+    {
+        "line_id": "Line_F",
+        "line_name": "F Line",
+        "mean": 70.67692307692307
+    },
+    {
+        "line_id": "Line_G",
+        "line_name": "G Line",
+        "mean": 81.34615384615384
+    },
+    {
+        "line_id": "Line_Z_J",
+        "line_name": "J Z Line",
+        "mean": 85.05384615384615
+    },
+    {
+        "line_id": "Line_L",
+        "line_name": "L Line",
+        "mean": 76.97692307692306
+    },
+    {
+        "line_id": "Line_M",
+        "line_name": "M Line",
+        "mean": 85.94999999999999
+    },
+    {
+        "line_id": "Line_N",
+        "line_name": "N Line",
+        "mean": 80.26153846153846
+    },
+    {
+        "line_id": "Line_Q",
+        "line_name": "Q Line",
+        "mean": 81.54615384615383
+    },
+    {
+        "line_id": "Line_R",
+        "line_name": "R Line",
+        "mean": 77.5153846153846
+    }
+]
